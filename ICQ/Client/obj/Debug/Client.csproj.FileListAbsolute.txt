@@ -1,0 +1,22 @@
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\bin\Debug\Client.exe.config
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\bin\Debug\Client.exe
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\bin\Debug\Client.pdb
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\obj\Debug\Client.Form1.resources
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\obj\Debug\Client.exe
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\obj\Debug\Client.pdb
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\bin\Debug\ServerData.dll
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\bin\Debug\ServerData.pdb
+C:\Users\KrimsonKing\Documents\Visual Studio 2013\Projects\ICQ\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Projects\ICQ\Client\bin\Debug\Client.exe.config
+F:\Projects\ICQ\Client\bin\Debug\Client.exe
+F:\Projects\ICQ\Client\bin\Debug\Client.pdb
+F:\Projects\ICQ\Client\bin\Debug\ServerData.dll
+F:\Projects\ICQ\Client\bin\Debug\ServerData.pdb
+F:\Projects\ICQ\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Projects\ICQ\Client\obj\Debug\Client.Form1.resources
+F:\Projects\ICQ\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Projects\ICQ\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\Projects\ICQ\Client\obj\Debug\Client.exe
+F:\Projects\ICQ\Client\obj\Debug\Client.pdb

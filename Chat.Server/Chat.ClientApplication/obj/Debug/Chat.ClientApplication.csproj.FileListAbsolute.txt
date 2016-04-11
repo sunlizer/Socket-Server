@@ -1,0 +1,24 @@
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.csprojResolveAssemblyReference.cache
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.ClientConsole.resources
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.Properties.Resources.resources
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.csproj.GenerateResource.Cache
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.ClientApplication.exe.config
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.ClientApplication.exe
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.ClientApplication.pdb
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.Common.dll
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.Common.pdb
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.exe
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.pdb
+c:\users\habib\documents\visual studio 2013\Projects\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.PrivateChat.resources
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.ClientApplication.exe.config
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.ClientApplication.exe
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.ClientApplication.pdb
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.Common.dll
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\bin\Debug\Chat.Common.pdb
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.ClientConsole.resources
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.PrivateChat.resources
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.Properties.Resources.resources
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.csproj.GenerateResource.Cache
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.exe
+C:\Users\KrimsonKing\Desktop\Chat.Server\Chat.ClientApplication\obj\Debug\Chat.ClientApplication.pdb
